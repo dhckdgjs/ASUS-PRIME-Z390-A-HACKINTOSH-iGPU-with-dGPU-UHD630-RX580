@@ -123,6 +123,7 @@ Check some options:
 ```
 
 Ref. [GUIDE General Framebuffer Patching Guide (HDMI Black Screen Problem) | tonymacx86.com](https://www.tonymacx86.com/threads/guide-general-framebuffer-patching-guide-hdmi-black-screen-problem.269149/)
+
 7. Remove Whatevergreen.kext on your EFI/CLOVER/kexts/Other
 8. Done
 
