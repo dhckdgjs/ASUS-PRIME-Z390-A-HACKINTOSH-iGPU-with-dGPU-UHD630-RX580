@@ -130,7 +130,7 @@ Ref. [GUIDE General Framebuffer Patching Guide (HDMI Black Screen Problem) | ton
 
 ## Summary
 As far as I have been able to test, everything works well except Thunderbolt devices.(I don’t have ThunderboltEX 3 or Titan/Alpine ridge add-on card)
-If you need other detailed settings fot this ASUS PRIME Z390-A M/B, please check released file.(like as USBport
+If you need other detailed settings fot this ASUS PRIME Z390-A M/B, please check released file.(like as USBport)
 Thanks.
 
 
