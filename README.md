@@ -138,4 +138,8 @@ Thanks.
 ## Screenshots
 
 
-
+![Sys info_PCI](https://user-images.githubusercontent.com/35429874/61994177-59df8980-b0b2-11e9-857f-47d757fa7a0f.png)
+![Sys info_USB](https://user-images.githubusercontent.com/35429874/61994187-6c59c300-b0b2-11e9-896a-8a3ac4609117.png)
+![Sys info_Audio](https://user-images.githubusercontent.com/35429874/61994188-711e7700-b0b2-11e9-908f-1ffd44d945a8.png)
+![Sys info_Bluetooth](https://user-images.githubusercontent.com/35429874/61994190-71b70d80-b0b2-11e9-8f2a-18757d28cd83.png)
+![Sys info_Network](https://user-images.githubusercontent.com/35429874/61994191-71b70d80-b0b2-11e9-888d-b25cac1842a8.png)
