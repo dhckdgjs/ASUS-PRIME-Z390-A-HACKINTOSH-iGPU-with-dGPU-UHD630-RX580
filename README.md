@@ -14,7 +14,7 @@
 
 
 ## Comments
-This Hackintosh build guide is ~NOT GUARANTEE~ 100% fully working in your conditions.
+This Hackintosh build guide is NOT GUARANTEE 100% fully working in your conditions.
 
 This guide has been tested on MacOS Mojave 10.14.4 and 10.14.5 and prefers the use of an AMD dGPU for ease of installation. This settings are considered using dGPU(RX580) and iGPU(UHD 630 with Quicksync) simultaneously in specifically the FCPX(10.14.6) and these dual GPUs can nearly full hardware accelerated.(similar to the Headless setting but not the exact same)
 And this guide can be used on the Gigabyte M/B also. (some settings different)
