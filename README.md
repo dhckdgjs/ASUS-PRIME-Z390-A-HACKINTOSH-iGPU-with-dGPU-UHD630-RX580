@@ -1,5 +1,5 @@
 # ASUS-PRIME-Z390-A-HACKINTOSH-Clover-iGPU-with-dGPU-UHD630-RX580
-#Writings
+
 
 ## Components
 - M/B: ASUS PRIME Z390-A(BIOS Ver. 1005)
