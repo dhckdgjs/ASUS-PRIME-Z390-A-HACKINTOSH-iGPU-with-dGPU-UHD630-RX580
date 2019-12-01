@@ -29,8 +29,11 @@ This patch also works in H370, B360 chipset M/B.
 
 * References
 https://www.tonymacx86.com/threads/a-solution-of-asus-new-bios-ver-2012-not-downgrading.273151/
+
 https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/page-133#post-1941938
+
 https://www.tonymacx86.com/threads/fix-for-boot-hangs-after-bios-update-acpi-patch.275091/
+
 
 
 
