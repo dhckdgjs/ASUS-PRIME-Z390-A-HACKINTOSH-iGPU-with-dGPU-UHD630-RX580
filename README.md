@@ -1,6 +1,30 @@
 # ASUS-PRIME-Z390-A-HACKINTOSH-Clover-iGPU-with-dGPU-UHD630-RX580
 
 
+## Caution
+If you update your M/B Bios to 1105 version (or 1201, 1302), after that you’ll show stuck/freeze at booting progress bar.
+
+~~ Error messages like these
+
+ - apfs module start 1393
+- SMCSuperIO: ssio @ detected device Nuvoton NCT679BD(after SMCRTC: start)
+- SMMSensors: [Fatal] ~~~
+
+
+So, DO NOT UPDATE Bios 1105 or new one.
+(ASUS doesn’t allow downgrade to 1005 version or below)
+
+But if you had already update your bios, you can use this ACPI DSDT patch as below.
+
+```
+Comment: ACPI Patch
+Find: A00A9353 54415301
+Replace: A00A910A FF0BFFFF
+```
+
+[image:CAB04DDC-D378-4533-9861-4B01D3D7FD03-360-000009C6620B38DF/aa6d1874668f99d4c73466307bec5a8a.jpg]
+
+
 ## Components
 - M/B: ASUS PRIME Z390-A(BIOS Ver. 1005)
 - CPU: Intel® Core™ i7-8700 Processor
