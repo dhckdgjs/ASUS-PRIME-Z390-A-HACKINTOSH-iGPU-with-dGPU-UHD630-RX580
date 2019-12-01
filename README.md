@@ -1,7 +1,19 @@
 # ASUS-PRIME-Z390-A-HACKINTOSH-Clover-iGPU-with-dGPU-UHD630-RX580
 
 
-## Caution
+## Components
+- M/B: ASUS PRIME Z390-A(BIOS Ver. 1005)
+- CPU: Intel® Core™ i7-8700 Processor
+- iGPU: Intel® UHD Graphics 630
+- dGPU: SAPPHIRE NITRO AMD Radeon RX 580 4GB
+- Lan: Intel® I219V, 1 x Gigabit LAN Controller
+- WiFi/Bluetooth: BCM94360CS2
+- Audio: Realtek® ALC S1220A 8-Channel High Definition Audio
+- Case: Fractal Design R5 Blackout
+
+
+
+## Caution - 19.12.01
 If you update your M/B Bios to 1105 version (or 1201, 1302), after that you’ll show stuck/freeze at booting progress bar.
 
 
@@ -28,6 +40,7 @@ This patch also works in H370, B360 chipset M/B.
 
 
 * References
+
 https://www.tonymacx86.com/threads/a-solution-of-asus-new-bios-ver-2012-not-downgrading.273151/
 
 https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/page-133#post-1941938
@@ -38,15 +51,6 @@ https://www.tonymacx86.com/threads/fix-for-boot-hangs-after-bios-update-acpi-pat
 
 
 
-## Components
-- M/B: ASUS PRIME Z390-A(BIOS Ver. 1005)
-- CPU: Intel® Core™ i7-8700 Processor
-- iGPU: Intel® UHD Graphics 630
-- dGPU: SAPPHIRE NITRO AMD Radeon RX 580 4GB
-- Lan: Intel® I219V, 1 x Gigabit LAN Controller
-- WiFi/Bluetooth: BCM94360CS2
-- Audio: Realtek® ALC S1220A 8-Channel High Definition Audio
-- Case: Fractal Design R5 Blackout
 
 
 
