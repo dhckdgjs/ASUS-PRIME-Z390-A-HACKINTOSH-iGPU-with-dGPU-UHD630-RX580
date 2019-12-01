@@ -5,7 +5,7 @@
 If you update your M/B Bios to 1105 version (or 1201, 1302), after that you’ll show stuck/freeze at booting progress bar.
 
 
-Error messages like these
+Error messages like these(ASUS RTC bug related)
 
 - apfs module start 1393
 - SMCSuperIO: ssio @ detected device Nuvoton NCT679BD(after SMCRTC: start)
@@ -23,6 +23,14 @@ Comment: ACPI Patch
 Find: A00A9353 54415301
 Replace: A00A910A FF0BFFFF
 ```
+
+This patch also works in H370, B360 chipset M/B.
+
+
+* References
+https://www.tonymacx86.com/threads/a-solution-of-asus-new-bios-ver-2012-not-downgrading.273151/
+https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/page-133#post-1941938
+https://www.tonymacx86.com/threads/fix-for-boot-hangs-after-bios-update-acpi-patch.275091/
 
 
 
