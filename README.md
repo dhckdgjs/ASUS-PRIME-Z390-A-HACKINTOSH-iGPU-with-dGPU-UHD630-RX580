@@ -4,11 +4,13 @@
 ## Caution
 If you update your M/B Bios to 1105 version (or 1201, 1302), after that you’ll show stuck/freeze at booting progress bar.
 
-~~ Error messages like these
+
+* Error messages like these
 
  - apfs module start 1393
 - SMCSuperIO: ssio @ detected device Nuvoton NCT679BD(after SMCRTC: start)
 - SMMSensors: [Fatal] ~~~
+
 
 
 So, DO NOT UPDATE Bios 1105 or new one.
