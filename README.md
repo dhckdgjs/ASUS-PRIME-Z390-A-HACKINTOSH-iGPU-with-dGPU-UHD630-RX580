@@ -13,6 +13,12 @@
 
 
 
+## Update - 20.09.10
+- Opencore 0.6.0 update(with Whatevergreen.kext).
+- Still can using Clover also.
+
+
+
 ## Caution - 19.12.01
 If you update your M/B Bios to 1105 version (or 1201, 1302), after that you’ll show stuck/freeze at booting progress bar.
 
