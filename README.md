@@ -18,6 +18,7 @@
 - Still can using Clover also.
 - macOS Catalina 10.15.6
 - Available Netflix(DRM) HD playback in Safari.(WEG & shikigva=80 but, not yet 4K)
+- Need to change dGPU DeviceProperties(Vega64 → Your device). PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)
 - Just set to default CMOS(using clear jumper or remove M/B battery), if you cannot boot these Opencore EFI(after convert to Opencore).
 
 
