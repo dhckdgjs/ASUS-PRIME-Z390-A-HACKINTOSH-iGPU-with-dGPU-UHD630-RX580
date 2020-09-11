@@ -14,7 +14,7 @@
 
 
 ## Update - 20.09.10
-Opencore 0.6.0 update(with Whatevergreen.kext)
+Opencore 0.6.0 update(with Whatevergreen.kext).
 Still can using Clover also.
 
 
