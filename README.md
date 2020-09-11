@@ -16,6 +16,8 @@
 ## Update - 20.09.10
 - Opencore 0.6.0 update(with Whatevergreen.kext).
 - Still can using Clover also.
+- macOS 10.15.6
+- Available Netflix(DRM) playback in Safari.(shikigva=80)
 
 
 
