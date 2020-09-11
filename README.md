@@ -18,6 +18,7 @@
 - Still can using Clover also.
 - macOS Catalina 10.15.6
 - Available Netflix(DRM) HD playback in Safari.(shikigva=80, not yet 4K)
+- Just set to default CMOS(using clear jumper or remove M/B battery), if you cannot boot these Opencore EFI(after convert to Opencore).
 
 
 
