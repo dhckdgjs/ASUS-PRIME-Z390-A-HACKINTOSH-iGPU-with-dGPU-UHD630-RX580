@@ -12,6 +12,12 @@
 - Case: Fractal Design R5 Blackout
 
 
+## Update - 21.04.26
+- Opencore 0.6.8 update(with Whatevergreen.kext).
+- macOS Bigsur 11.2.3
+- Everything works well. Almost done :)
+
+
 
 ## Update - 20.09.10
 - Opencore 0.6.0 update(with Whatevergreen.kext).
