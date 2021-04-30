@@ -11,14 +11,10 @@
 - Audio: Realtek® ALC S1220A 8-Channel High Definition Audio
 - Case: Fractal Design R5 Blackout
 
-## Update - 21.04.29
-Mini guide for Big sur 11.3 update USB issue
-- https://www.tonymacx86.com/threads/ohchangs-build-gigabyte-z590-vision-g-i7-10700k-amd-rx580.310986/post-2245176
-
-This quick fix for Z590, but basically same solution for Z390 also.
-- Step 1. Change USBPorts.kext(from Hackintool) to USBMap.kext(from USBMap script). - It means re-map all USB ports from the first using USBInjectall.kext. The attachement(USBMap.kext) in that thread is only for Z590 vision g M/B.
-- Step 2. XhciLimitPort(in Quirks) uncheck and add 2 Kernel patches.
-- Step 3.(optional) If you need a Extra operating current, use SSDT or edit USBMap.kext manually.
+## Update - 21.04.30
+ASUS PRIME Z390-A can not stable with xhciportlimit.
+So, I set USB 15 ports(disable HS09, HS10, internal Type-C port and etc.) only.
+In Big sur 11.3, Everything works well
 
 
 ## Update - 21.04.26
