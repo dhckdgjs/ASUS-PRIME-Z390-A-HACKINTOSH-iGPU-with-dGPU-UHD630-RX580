@@ -13,7 +13,9 @@
 
 ## Update - 21.04.30
 ASUS PRIME Z390-A can not stable with xhciportlimit.
+
 So, I set USB 15 ports(disable HS09, HS10, internal Type-C port and etc.) only.
+
 In Big sur 11.3, Everything works well
 
 
